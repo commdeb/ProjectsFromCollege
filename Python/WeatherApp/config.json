@@ -1,0 +1,106 @@
+{
+  "values_request": {
+    "hourly": [
+      "temperature_2m",
+      "relativehumidity_2m",
+      "apparent_temperature",
+      "pressure_msl",
+      "cloudcover",
+      "windspeed_10m",
+      "winddirection_10m",
+      "windgusts_10m",
+      "precipitation",
+      "weathercode"
+    ],
+    "daily": [
+      "temperature_2m_max",
+      "temperature_2m_min",
+      "apparent_temperature_max",
+      "apparent_temperature_min",
+      "precipitation_sum",
+      "precipitation_hours",
+      "weathercode",
+      "sunrise",
+      "sunset",
+      "windspeed_10m_max",
+      "windgusts_10m_max",
+      "winddirection_10m_dominant"
+    ]
+  },
+  "label_names": {
+    "hourly": [
+      "Temperatura (\u00b0C):",
+      "Wilgotno\u015b\u0107 (%):",
+      "Temperatura odczuwalna (\u00b0C):",
+      "Ci\u015bnienie (hPa)",
+      "Stopie\u0144 zachmurzenia (%)",
+      "Pr\u0119dko\u015b\u0107 wiatru (km/h)",
+      "Kierunek wiatru (\u00b0)",
+      "Wiatr w porywach do (km/h)",
+      "Opady (mm)"
+    ],
+    "daily": [
+      "Temperatura odczuwalna maks (\u00b0C):",
+      "Temperatura odczuwalna min(\u00b0C):",
+      "Suma opad\u00f3w (mm):",
+      "Czas opad\u00f3w (h):",
+      "Wsch\u00f3d (godz):",
+      "Zach\u00f3d (godz):",
+      "Maks pr\u0119dko\u015b\u0107 wiatru (km/h):",
+      "Maks porywy wiatru (km/h):",
+      "Dominuj\u0105cy kierunek wiatru (\u00b0):"
+    ]
+  },
+  "favorite_loc": {
+    "Wroc\u0142aw": [
+      51.1263106,
+      16.97819633051261
+    ],
+    "Dom": [
+      50.8424835,
+      16.4870549
+    ]
+  },
+  "theme_1": "#808080",
+  "theme_2": "#87ceeb",
+  "def_loc_name": "Wroc\u0142aw",
+  "numb_of_default_loc_name": 1,
+  "link_temp": "https://api.open-meteo.com/v1/forecast?",
+  "requests_temp": {
+    "latitude": null,
+    "longitude": null,
+    "hourly": [
+      "temperature_2m",
+      "relativehumidity_2m",
+      "apparent_temperature",
+      "pressure_msl",
+      "cloudcover",
+      "windspeed_10m",
+      "winddirection_10m",
+      "windgusts_10m",
+      "precipitation",
+      "weathercode"
+    ],
+    "daily": [
+      "temperature_2m_max",
+      "temperature_2m_min",
+      "apparent_temperature_max",
+      "apparent_temperature_min",
+      "precipitation_sum",
+      "precipitation_hours",
+      "weathercode",
+      "sunrise",
+      "sunset",
+      "windspeed_10m_max",
+      "windgusts_10m_max",
+      "winddirection_10m_dominant"
+    ],
+    "current_weather": null,
+    "temperature_unit": null,
+    "windspeed_unit": null,
+    "precipitation_unit": null,
+    "timeformat": null,
+    "timezone": null,
+    "past_days": null
+  }
+}

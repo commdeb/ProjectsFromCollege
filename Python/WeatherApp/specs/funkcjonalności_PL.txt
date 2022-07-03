@@ -1,0 +1,18 @@
+1. Wybór lokalizacji na 3 sposoby:
+    1a. Poprzez listę ulubionych lokalizacji
+    1b. Poprzez współrzędne geograficzne
+    1c. Poprzez wyszukiwarkę internetową
+2. Wybór okresu czasowego, poprzez wprowadzenie daty i godziny prognozy
+3. Dodawanie lokalizacji, oraz usuwanie, do/z ulubionych
+4. Zmieniające się, informujące o pogodzie ikony
+5. Pozyskiwanie danych w skali dziennej oraz godzinowej
+
+Zalety w stosunku do innych produktów:
+1. Otwarta licencja
+2. Dobrowolna inwestycja
+3. Szybkość działania
+4. Dodawanie lokalizacji
+5. Desktopowy, misterny interfejs (oldschoolowa stylistyka)
+6. Pozyskiwanie prostych i szczegółowych danych
+7. Uniezależnienie od światowych korporacji
+8. Dostęp do światowych danych

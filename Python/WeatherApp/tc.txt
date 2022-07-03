@@ -1,0 +1,10 @@
+[DEFAULT]
+base_geometry = 1097x647+52+52
+config_file = config.json
+def_lat = 51.1263106
+def_long = 16.97819633051261
+place_type_setter = 2
+theme_1 = #808080
+theme_2 = #87ceeb
+theme_3 = #47F273
+
